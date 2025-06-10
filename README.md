@@ -1,6 +1,6 @@
 Hello there 👋
 
-My name is Skyward and I like programming in my free time. I also go by other names on various platforms, due to the name being taken in some places. You can find my different aliases [here](
+My name is Skyward and I like programming in my free time. I also go by other names on various platforms, due to the name being taken in some places. You can find my different aliases [here](#aliases)
 
 # Languages Known
 > [!NOTE]
@@ -21,6 +21,6 @@ Discord - .skyward.\
 [Twitter](https://x.com/CDSkyward)
 
 # Aliases
-CDSkyward - RetroAchievements, Twitter, Bluesky
-realjaco2 - Steam
+CDSkyward - RetroAchievements, Twitter, Bluesky\
+realjaco2 - Steam\
 Skyward01 - GameBanana
