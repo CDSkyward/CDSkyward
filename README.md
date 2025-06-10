@@ -20,7 +20,7 @@ The languages marked with a * at the start are ones that I'm currently not the b
 * [Anti-Spoilers](https://github.com/SCZSkyward/Anti-Spoilers)
   > Removes those descriptions for heartive movies and series due to them sometimes containing spoilers for either the series or movie you are about to watch.
 * [Simple VNC Runner](https://github.com/SCZSkyward/Anti-Spoilers)
-  > Allowss you to connect to a Github Action Runner with any sort of VNC client. This is still very work in progress so don't expect a working build in the repo at the moment.
+  > Allows you to connect to a Github Action Runner with any sort of VNC client. This is still very work in progress so don't expect a working build in the repo at the moment.
 
 # Contact
 You can contact me in a variety of ways, some of which are listed below.
@@ -33,10 +33,6 @@ You can contact me in a variety of ways, some of which are listed below.
 
 # Aliases
 * CDSkyward
-  > RetroAchievements\
-  > Twitter\
-  > Bluesky
+  > [RetroAchievements](https://retroachievements.org/user/CDSkyward)
 * realjaco2
-  > Steam
-* Skyward01
-  > GameBanana
+  > [Steam](https://steamcommunity.com/id/CDSkyward/)
