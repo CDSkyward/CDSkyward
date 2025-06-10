@@ -30,6 +30,6 @@ The languages marked with a * at the start are ones that I'm currently not the b
 * realjaco2
   > [Steam](https://steamcommunity.com/id/CDSkyward/)
 * .skyward.
-  > Discord
+  > [Discord](https://discordapp.com/users/833089700965122089)
 * Skyward01
   > [GameBanana](https://gamebanana.com/members/2001919)
