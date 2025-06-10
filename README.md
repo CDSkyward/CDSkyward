@@ -22,17 +22,14 @@ The languages marked with a * at the start are ones that I'm currently not the b
 * [Simple VNC Runner](https://github.com/SCZSkyward/Anti-Spoilers)
   > Allows you to connect to a Github Action Runner with any sort of VNC client. This is still very work in progress so don't expect a working build in the repo at the moment.
 
-# Contact
-You can contact me in a variety of ways, some of which are listed below.
-
-* Discord
-  > .skyward.
-* [GameBanana](https://gamebanana.com/members/2001919)
-* [Bluesky](https://bsky.app/profile/cdskyward.bsky.social)
-* [Twitter](https://x.com/CDSkyward)
-
 # Aliases
 * CDSkyward
-  > [RetroAchievements](https://retroachievements.org/user/CDSkyward)
+  > [RetroAchievements](https://retroachievements.org/user/CDSkyward)\
+  > [Twitter](https://x.com/CDSkyward)\
+  > [Bluesky](https://bsky.app/profile/cdskyward.bsky.social)
 * realjaco2
   > [Steam](https://steamcommunity.com/id/CDSkyward/)
+* .skyward.
+  > Discord
+* Skyward01
+  > [GameBanana](https://gamebanana.com/members/2001919)
